@@ -1,0 +1,9 @@
+@media(max-width:767px){
+    
+    .btn_join{
+       display: none;
+    }
+    .large_btn_join{
+        display: inherit;
+    }
+}
